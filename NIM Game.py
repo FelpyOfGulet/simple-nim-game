@@ -1,5 +1,3 @@
-import random
-
 game_board = [
     5,
     3,
